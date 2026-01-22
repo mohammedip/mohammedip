@@ -1,69 +1,142 @@
-# 👋 Hi, I'm Mohammed Reida ✨
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4F46E5;">Mohammed Reida</span>
+</h1>
 
-💻 **Full Stack & AI Developer** | 🧠 **Building Smart Web Apps with Data-Driven Intelligence**
+<h3 align="center">
+  💻 Full Stack & AI Engineer • 🧠 Intelligent Web Systems • 🚀 Scalable Solutions
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-reida">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:reidamohammed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mohammedip">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I specialize in combining **Full Stack Web Development** with **Advanced AI/ML Development** to build impactful, scalable solutions.
-- 💡 **AI + Web Integration:** Passionate about applying machine learning models (Deep Learning/NLP) directly into real-world applications.
-- 🌱 Currently focusing on **MLOps best practices**, **Ethical AI governance** (RGPD, IA Act), and **cloud-native data processing**.
-- 🎯 **Goal:** Collaborate on innovative projects, contribute to open-source, and share knowledge within the AI and Web communities.
+
+💡 **Engineer focused on bridging AI and Full Stack Development**  
+I design and deploy **intelligent, production-ready web applications** by combining:
+- Modern **frontend & backend architectures**
+- **Machine Learning / Deep Learning models**
+- **MLOps, data pipelines, and ethical AI standards**
+
+🎯 **Objective:** Build scalable, secure, and responsible AI-powered systems while contributing to open-source and high-impact projects.
 
 ---
 
-## 🛠️ Languages & Frameworks
+## 🧩 Tech Stack
 
-| Category | Key Technologies |
-| :---: | :---: |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-for-the-badge&logo=laravel&logoColor=white) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **ML & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+### 🧠 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
----
+### 🏗 Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Secure_Auth-22C55E?style=flat-square"/>
+</p>
 
-## 🧠 AI & Data Science Expertise
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
-This section highlights the specific ML/AI skills and best practices you've mastered, as detailed in the objectives:
-
-### 📊 Machine Learning & Deep Learning
-
-* **Supervised/Unsupervised ML:** Implementation of **K-means**, **scikit-learn classification/regression** algorithms from scratch.
-* **Deep Learning Models:** Mastering **TensorFlow/Keras** for **CNNs**, **RNNs (LSTMs)**.
-* **Model Management:** Data splitting, robust validation (e.g., **5-fold cross-validation**), hyperparameter tuning (**GridSearchCV**, **fine-tuning**).
-* **Evaluation & Reporting:** Analyzing results, displaying **confusion matrices** and **ROC curves**, and providing comprehensive synthetic reports.
-
-### 📝 Natural Language Processing (NLP)
-
-* **NLP Models:** Implementing and optimizing models using **TensorFlow/Keras** and integrating pre-trained **NLP models** with a **Vector Database**.
-* **Text Pre-processing:** Expertise in **tokenization, normalization, stopword removal, lemmatization,** and **stemming**.
-* **Embeddings:** Using **Word Embeddings** and encoding/decoding text into vectors for models.
-* **Optimization:** **Transfer Learning** and fine-tuning for improved NLP performance.
-
-### 💻 Data & MLOps Best Practices
-
-* **Data Preparation:** **Preparing images with OpenCV** and performing **EDA** using **Pandas/Seaborn**.
-* **Data Engineering:** Conceiving and optimizing **data ingestion/cleaning pipelines** and leveraging **BigQuery/SQL**.
-* **API/Deployment:** Documenting and publishing models via a **secured API**; setting up **Airflow/Spark** for data collection jobs.
-* **Ethical AI:** Applying **Ethical AI grid** and understanding regulatory frameworks (**RGPD, IA Act**).
+### 🗄 Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector_DB-7C3AED?style=flat-square"/>
+</p>
 
 ---
 
-## 🤝 Professional & Collaborative Skills
+## 🤖 AI & Data Science
 
-* **Collaboration:** Adopting **Git/GitHub workflow** (fork, pull requests, validation), familiarization with the Python/AI ecosystem.
-* **Technical Environment:** Proficient in the development environment (**Python/Git/GItLens**).
-* **Governance:** Recognizing and mitigating biases in datasets; upholding principles of **ethics and governance** in AI projects.
-* **Project Management:** Implementing good **workflow practices (GRI)**, following a strict technical watch chart.
+### 📊 Machine Learning
+- Supervised & unsupervised learning (classification, regression, clustering)
+- **K-Means**, scikit-learn pipelines
+- Feature engineering & preprocessing
+- **Cross-validation (5-fold)** and model comparison
+- Hyperparameter tuning (**GridSearchCV**)
+- Evaluation: confusion matrix, ROC curves, metrics
+
+### 🧠 Deep Learning
+- **TensorFlow / Keras**
+- **CNNs** for image processing
+- **RNNs / LSTMs** for sequential data
+- Transfer learning & fine-tuning
+- Performance analysis & reporting
+
+### 📝 Natural Language Processing
+- Tokenization, normalization, lemmatization, stemming
+- Word embeddings & vector encoding
+- Pretrained NLP models integration
+- NLP pipelines with vector databases
 
 ---
 
-## 📬 Connect With Me
+## 📈 Data Engineering & MLOps
 
-| Platform | Link |
-| :---: | :---: |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-reida) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reidamohammed@gmail.com) |
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4B5563?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+</p>
+
+- Data ingestion & cleaning pipelines  
+- SQL & BigQuery analytics  
+- ML model deployment via secured APIs  
 
 ---
-<p align="right">⭐️ From <a href="https://github.com/mohammedip">Mohammed Reida</a></p>
+
+## ⚖️ Ethical AI & Governance
+
+- Bias detection & mitigation  
+- Responsible AI design  
+- Regulatory awareness:
+  - **RGPD (GDPR)**
+  - **EU AI Act**
+- Ethical AI grids & documentation
+
+---
+
+## 🤝 Collaboration & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pull_Requests-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Code_Review-22C55E?style=flat-square"/>
+</p>
+
+- GitFlow & collaborative workflows  
+- Technical documentation  
+- Continuous learning & technical watch  
+
+---
+
+<p align="center">
+  🚀 <strong>Building the future where AI meets the Web</strong>
+</p>
+
+<p align="right">
+  ⭐️ From <a href="https://github.com/mohammedip">Mohammed Reida</a>
+</p>
